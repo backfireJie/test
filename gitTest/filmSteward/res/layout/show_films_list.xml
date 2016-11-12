@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+    <TextView
+        android:id="@+id/tv_filmType"
+        android:layout_width="60dp"
+        android:layout_height="match_parent"
+        android:background="#576936"
+        android:textColor="#823935"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:background="#827546"
+        
+        >
+    <TextView
+        android:id="@+id/tv_filmName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#aaaaaa"
+        
+        
+        android:textSize="20dp"
+        />
+    	
+    <TextView
+        android:id="@+id/tv_filmTextFragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#aaaaaa"
+        
+        android:textSize="18dp"/>
+    </LinearLayout>
+
+</LinearLayout>

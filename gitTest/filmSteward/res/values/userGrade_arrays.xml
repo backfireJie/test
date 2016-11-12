@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="userGrade">
+        <item>透明级</item>
+        <item>小白级</item>
+        <item>小灰极</item>
+        <item>小黑极</item>
+        <item>骨灰级I</item>
+        <item>骨灰级II</item>
+        <item>骨灰级III</item>
+        <item>一切终成空</item>>
+    </string-array>
+
+</resources>

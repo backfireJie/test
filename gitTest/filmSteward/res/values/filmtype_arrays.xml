@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="filmType">
+        <item>未知类型</item>
+        <item>科幻</item>
+        <item>动画</item>
+        <item>剧情</item>
+        <item>悬疑</item>
+        <item>恐怖</item>
+        <item>青春</item>
+        <item>励志</item>
+        <item>战争</item>
+        <item>纪录</item>
+        <item>喜剧</item>
+        <item>魔幻</item>
+        <item>伦理</item>
+        <item>黑色幽默</item>
+        <item>其他</item>
+        
+    </string-array>
+
+</resources>
